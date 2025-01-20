@@ -90,7 +90,7 @@ img {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.question img {
+/*.answer img {
     width: 250%; /* גודל התמונה (80% מרוחב ההורה) */
-    margin: 0 auto; /* ממרכז את התמונה */
-}
+/*    margin: 0 auto; /* ממרכז את התמונה */
+/*}
