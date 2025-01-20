@@ -6,4 +6,4 @@
 - `style.css`: קובץ עיצוב.
 - `screenshots/`: תיקיית צילומי מסך.
 
-[לחץ כאן לצפייה באתר](https://username.github.io/IR-HW3)
+[לחץ כאן לצפייה באתר](https://yaakovsh8.github.io/IR-HW3)
